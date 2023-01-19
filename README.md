@@ -1,9 +1,9 @@
-# Django-pttBeauty-linebot-Vercel
-# 一個Django pttBeauty linebot快速建置於平台Vercel。
+# Django-igBeauty-linebot-Vercel
+# 一個Django igBeauty linebot快速建置於平台Vercel。
 
 
-### [English](https://github.com/pyfbsdk59/Django-pttBeauty-linebot-Vercel/blob/main/README_en.md)
-### [日本語](https://github.com/pyfbsdk59/Django-pttBeauty-linebot-Vercel/blob/main/README_jp.md)
+### [English](https://github.com/pyfbsdk59/Django-igBeauty-linebot-Vercel/blob/main/README_en.md)
+### [日本語](https://github.com/pyfbsdk59/Django-igBeauty-linebot-Vercel/blob/main/README_jp.md)
 
 
 
