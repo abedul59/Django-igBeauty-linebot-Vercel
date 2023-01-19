@@ -32,7 +32,7 @@ def callback(request):
                     
 
                     
-                    if mtext == "R":  
+                    if mtext == "G":  
                         func.sendImageA(event)
                         
 
